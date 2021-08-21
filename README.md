@@ -29,8 +29,6 @@ It's set up to allow users to save book searches to the back end. The applicatio
 ### `npm run develop`
 this will run the entire application
 
-## Demo
-
 
 ## Deployed App
-https://sheltered-basin-66455.herokuapp.com/
+https://sheltered-basin-66455.herokuapp.com/ (Having some trouble with this, fixing soon!S)
